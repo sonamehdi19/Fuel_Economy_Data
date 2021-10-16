@@ -1,4 +1,4 @@
-# Linear Regression model is built for Fuel Economy Data analysis.
+# Linear Regression model for Fuel Economy Data analysis
 
 ## Data Format
 A data frame with 234 rows and 11 variables:
