@@ -253,7 +253,7 @@ g_train <- my_data_train %>%
 g_train %>% ggplotly()
 
 #we observe from evaluation results of prediction for test and train data that there is underfitting
-#therefore, model can not determine and fit main dependence line in the data 
+
 
 # Compare  as both in one frame 
 library(patchwork)
